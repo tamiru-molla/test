@@ -1,0 +1,2 @@
+# Git Tutor
+- git init 
